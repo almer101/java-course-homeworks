@@ -1,0 +1,15 @@
+The Beatles					https://www.youtube.com/watch?v=z9ypq6_5bsg		4		1
+The Platters				https://www.youtube.com/watch?v=H2di83WAOhU		3		1
+The Beach Boys				https://www.youtube.com/watch?v=2s4slliAtQU		5		1
+The Four Seasons			https://www.youtube.com/watch?v=y8yvnqHmFds		12		1
+The Marcels					https://www.youtube.com/watch?v=qoi3TH59ZEs		13		1
+The Everly Brothers			https://www.youtube.com/watch?v=tbU3zdAgiX8		0		1
+The Mamas And The Papas		https://www.youtube.com/watch?v=N-aK6JnyFmk		0		1
+1975						https://www.youtube.com/watch?v=zUzBfBqbSmc		3		1
+SomeBand					https://www.youtube.com/watch?v=zUzBfBqbSmc		20		1
+Kebab						https://www.youtube.com/watch?v=-mrNWzy53Zo		2		2
+Pizza						https://www.youtube.com/watch?v=X26m-uvaiKg		3		2
+Chinese						https://www.youtube.com/watch?v=UvDGBIkJaqQ		10		2
+Wok							https://www.youtube.com/watch?v=64cTNM8Un9g		0		2
+Tortillas					https://www.youtube.com/watch?v=5W-KWRcC7DE		0		2
+

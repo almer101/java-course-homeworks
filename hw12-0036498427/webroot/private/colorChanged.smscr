@@ -1,0 +1,12 @@
+{$= "text/html" @setMimeType $}
+<html>
+ <head>
+  <title>Color change message</title>
+ </head>
+ <body>
+ 	<div align = "center">
+  		<h1>{$= "colorChanged" "The color was not changed" @tparamGet$}</h1>
+  		<a href="/index2.html">Back to home page</a>
+  	</div>
+ </body>
+</html>

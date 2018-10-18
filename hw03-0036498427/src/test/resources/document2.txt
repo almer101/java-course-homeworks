@@ -1,0 +1,11 @@
+
+ispisi nesto cos\{x}{$=i___3 "-4.5" @cos $} blabla
+
+{$   FOR new__4 5 25.6 $}
+	printf {$$} = cos\{x} {$=i y3  ^ @func  " \"aagagag\" ""1.556"    @intfmt $}
+	{$for var45  23 4.5 "-3.0"$}
+		unutar druge for petlje
+	{$end$}
+{$end$}
+
+{$$}

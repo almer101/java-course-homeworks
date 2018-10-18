@@ -1,0 +1,8 @@
+Example of escaping \{$ THis must be a string $}
+
+{$ FOR  k	1 4 5$}
+
+	{$= " this should be in quotes \"example\" " @name__1 $}
+	{$= i i name_2_s @abs1 $}
+
+{$end$}

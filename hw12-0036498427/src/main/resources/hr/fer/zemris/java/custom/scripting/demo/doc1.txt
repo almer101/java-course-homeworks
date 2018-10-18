@@ -1,0 +1,11 @@
+this is text
+{$   FOr var     -1   5.0   3$}
+
+	print {$=i$} = sin {$=i va45  2*2    @func   "1.556"    @intfmt $}
+	{$for var45  23 4.5 "-3.0"$}
+		unutar druge for petlje
+	{$end$}
+
+{$end$}
+
+tekst gotov.

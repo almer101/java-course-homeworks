@@ -1,0 +1,11 @@
+{$  FOR i334v__s3      1    "-12"   -1$}
+
+this is text  
+{$END   $}
+
+{$= i i * @sin  "0.000" @decfmt $}
+this is printable text
+
+{$fOr   ivan 2"5"    1$}
+
+	print   {$end$}
